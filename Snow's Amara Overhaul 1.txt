@@ -249,7 +249,7 @@ SparkPatchEntry,(1,1,0,),/Game/Gear/ClassMods/_Design/PartSets/Part_ClassMod/SIr
 # All of the stuff above this point come from CZ47's True Melee Amara mod, they gave me permission to use their mod as a base to build my own mod off of. There may be some small adjustments made by me, but most of it is from them
 # All of the stuff below this point is from me
 
-SparkPatchEntry,(1,2,0,),/Game/PlayerCharacters/_Shared/_Design/Balance/Siren/DataTable_Siren_ConstantValues.DataTable_Siren_ConstantValues,DoUntoOthers_Cooldown,Value,0,,(BaseValueConstant=0,DataTableValue=None,BaseValueScale=1.0)
+SparkPatchEntry,(1,2,0,),/Game/PlayerCharacters/_Shared/_Design/Balance/Siren/DataTable_Siren_ConstantValues.DataTable_Siren_ConstantValues,DoUntoOthers_Cooldown,Value,0.5,,(BaseValueConstant=0.5,DataTableValue=None,BaseValueScale=1.0)
 
 
 
